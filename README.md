@@ -65,4 +65,4 @@ The project includes both quantitative and qualitative evaluation methods:
 
 ## References
 
-For a complete list of references, please see the full paper included in this repository.
+<a href="https://arxiv.org/abs/1703.07511">This paper</a> was our reference to help come up with our own.
